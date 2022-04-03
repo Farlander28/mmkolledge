@@ -44,4 +44,7 @@ return [
     'Skills' => 'Умения',
     'Theme' => 'Тема',
     'Programs' => 'Программы',
+    'Create Group' => 'Создать группу',
+    'Groups' => 'Группы',
+    'Update Group' => 'Обновить группу',
 ];
